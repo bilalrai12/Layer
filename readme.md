@@ -17,9 +17,9 @@ This bot automates the process of creating accounts and using referral codes for
 1. Clone the repository:
 
    ```sh
-   git clone https://github.com/ahlulmukh/layeredge-autoreff.git
-   cd layeredge-autoreff
-   ```
+   git clone https://github.com/bilalrai12/Layer.git
+   cd Layer```
+   
 
 2. Install the dependencies:
 
